@@ -99,6 +99,8 @@ online-retail-ii-analysis/
 │
 └── README.md
 
-## Conclusion
-
-The project demonstrates how raw transactional data can be transformed into meaningful information through systematic data cleaning, exploratory analysis, visualization, and data storytelling.
+## Conclusion 
+ 
+This project demonstrates how raw transactional data can be transformed into meaningful business insights through systematic data cleaning, exploratory analysis, visualization, and data storytelling. 
+ 
+The analysis was performed using Python and documented in a Jupyter Notebook. The presentation summarizes the key findings and insights from the analysis.
